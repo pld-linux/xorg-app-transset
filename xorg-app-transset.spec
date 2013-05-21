@@ -1,12 +1,12 @@
 Summary:	transset application - utility for setting opacity property
 Summary(pl.UTF-8):	Aplikacja transset - narzędzie do ustawiania przezroczystości
 Name:		xorg-app-transset
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/transset-%{version}.tar.bz2
-# Source0-md5:	1aac8670c17803e30885eb5911f68d3d
+# Source0-md5:	4afa9e30637171ae9e557a986e423720
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
